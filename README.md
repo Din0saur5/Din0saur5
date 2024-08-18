@@ -7,8 +7,8 @@ I'm Daniel Hackworth, a software engineer with a penchant for turning complex pr
 - HTML5, CSS, JavaScript, Vite, React, Tailwind, NodeJS
 
 ## 🔭 Projects
-- [CozShare](https://github.com/YourGitHub/CozShare): A full-stack application for cosplayers to connect, share events, messages, pictures, and YouTube videos.
-- [Create-Hackworth-App](https://github.com/YourGitHub/Create-Hackworth-App): A NodeJS script that automates the scaffolding of PERN stack and React-Flask projects.
+- [CozShare](https://github.com/Din0saur5/CozShare): A full-stack application for cosplayers to connect, share events, messages, pictures, and YouTube videos.
+- [Create-Hackworth-App](https://github.com/Din0saur5/Create-Hackworth-App): A NodeJS script that automates the scaffolding of PERN stack and React-Flask projects.
 
 ## 👯 Collaboration
 I thrive in environments where collaboration sparks innovation. I've led projects, nurtured communities through a Discord server for classmates, and I'm always on the lookout for opportunities to learn from and contribute to open-source projects.
@@ -20,6 +20,6 @@ The tech landscape is ever-changing, and I'm committed to keeping up with it. Wh
 Whether you're looking for a collaborator on your next project, have questions about my work, or just want to chat about the latest in tech, I'm all ears. Let's build something great together.
 
 ## 📫 How to reach me
-Feel free to drop me a message here on GitHub or reach out through my [LinkedIn](https://www.linkedin.com/in/danielhackworth) or [personal website](http://daniel-hackworth.com).
+Feel free to drop me a message here on GitHub or reach out through my [LinkedIn](https://www.linkedin.com/in/daniel-hackworth) or [personal website](http://daniel-hackworth.com).
 
 > "Code is like a garden; both require patience, foresight, and a touch of creativity to truly flourish."
