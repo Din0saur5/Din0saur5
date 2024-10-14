@@ -3,8 +3,8 @@
 I'm Daniel Hackworth, a software engineer with a penchant for turning complex problems into elegant solutions. With a background that spans from horticulture to coding, I bring a unique perspective to the tech world. After diving headfirst into software engineering, I've found my passion in crafting full-stack applications that not only perform but also tell a story.
 
 ## 🌱 Skills
-- Python, Flask, SQLAlchemy, PostgresQL, Supabase, SQLite
-- HTML5, CSS, JavaScript, Vite, React, Tailwind, NodeJS
+- Python, Flask, SQLAlchemy, PostgreSQL, Supabase, SQLite, plpgsql, Graphql
+- HTML5, CSS, JavaScript, Vite, React, Tailwind, NodeJS, TypeScript, Tailwind, React Native, Next 
 
 ## 🔭 Projects
 - [CozShare](https://github.com/Din0saur5/CozShare): A full-stack application for cosplayers to connect, share events, messages, pictures, and YouTube videos.
